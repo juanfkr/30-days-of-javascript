@@ -5,9 +5,9 @@ Este repositório aborda o [plano de estudos](https://leetcode.com/studyplan/30-
 ## Lista de problemas abordados
 
 1. [2667. Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/?envType=study-plan-v2&envId=30-days-of-javascript) — [Ir para solução](/solucoes/problema-2667.js)
-2. [2620. Counter](https://leetcode.com/problems/counter/description/?envType=study-plan-v2&envId=30-days-of-javascript) — [Ir para solução]()
-3. [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/?envType=study-plan-v2&envId=30-days-of-javascript) — [Ir para solução]()
-4. [2665. Counter II](https://leetcode.com/problems/counter-ii/?envType=study-plan-v2&envId=30-days-of-javascript) — [Ir para solução](#)
+2. [2620. Counter](https://leetcode.com/problems/counter/description/?envType=study-plan-v2&envId=30-days-of-javascript) — [Ir para solução](/solucoes/problema-2620.js)
+3. [2704. To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/?envType=study-plan-v2&envId=30-days-of-javascript) — [Ir para solução](/solucoes/problema-2704.js)
+4. [2665. Counter II](https://leetcode.com/problems/counter-ii/?envType=study-plan-v2&envId=30-days-of-javascript) — [Ir para solução](/solucoes/problema-2665.js)
 5. [2635. Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) — [Ir para solução](#)
 6. [2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) — [Ir para solução](#)
 7. [2626. Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/?envType=study-plan-v2&envId=30-days-of-javascript) — [Ir para solução](#)
